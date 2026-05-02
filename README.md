@@ -1,25 +1,45 @@
-# Hi there, I'm Farrukh! 👋
+# Hi there, I'm Farrukh Rahim! 👋
 
-I'm a Data Analyst and BS Computer Science student with a strong passion for building intelligent systems and solving problems with code. I have a solid working knowledge of AI/ML concepts and am actively pursuing my ultimate goal of becoming a Machine Learning Engineer.
+I'm a 4th-semester BS Computer Science student and aspiring **Machine Learning Engineer** based in Faisalabad. I specialize in building data-driven systems and solving complex problems through optimized Python code. I am currently bridging the gap between foundational programming and predictive modeling.
 
-### 🚀 About Me
-- 🔭 **Currently working on:** Analyzing real-world datasets and building data projects. I also recently completed a **50 Python Programs challenge**, built 4 foundational Python projects and **50 NumPy Programs challenge**
-- 🌱 **Currently learning:** SQL, Power BI, Artificial Intelligence, and Machine Learning.
-- 💼 **Looking for:** Remote summer internships (starting around mid-June) or part-time entry-level roles in Data Analysis, Data Science, AI, or ML.
-- 💬 **Ask me about:** AI/ML roadmaps, data analysis techniques, and data science concepts.
-- ⚡ **Fun fact:** Before diving into CS, I built a strong foundation in ICS Physics!
+---
 
-### 🏆 Certifications
-- **Artificial Intelligence Fundamentals** – IBM
-- **Python Essentials 1** – Cisco
-- **Python Essentials 2** – Cisco
-- **AI for Beginners** – HP Life
+### 🚀 What I'm Up To
+* 🔭 **Currently focusing on:** Advanced Exploratory Data Analysis (EDA) and transition into Predictive Modeling with Scikit-Learn.
+* 🏆 **Recent Milestones:** 
+    * Completed a **50-Program Python Fundamentals Challenge** (Logic & CLI Apps).
+    * Mastered the **50-Program NumPy Challenge** (Linear Algebra & Vectorization).
+    * Published a deep-dive **Pandas EDA Project** on Global Data Science Salaries.
+* 💼 **Looking for:** Remote Data Analyst or ML Engineering internships (Starting mid-June 2026).
+* 🌱 **Currently learning:** Scikit-Learn, SQL, and Power BI.
+
+---
+
+### 📊 Featured Projects
+* **[Data Science Salaries Analysis](https://github.com/farrukhrahimsandhu/Data-Science-Salaries-Analysis)**: A comprehensive EDA project uncovering global salary trends using Pandas and NumPy.
+* **[NumPy Mastery](https://github.com/farrukhrahimsandhu/NumPy-Mastery)**: A repository of 50 scripts focusing on matrix math and the mathematical engines behind ML.
+* **[Python Fundamentals Challenge](https://github.com/farrukhrahimsandhu/Python-Fundamentals-Challenge)**: 50+ programs covering core logic and full CLI applications like an ATM Simulator and Contact Manager.
+
+---
 
 ### 🛠️ Tech Stack & Skills
-- **Languages:** Python (OOP, Error/Exception Handling), C, C++ (Fundamentals)
-- **Data Science Libraries:** NumPy, Pandas, Matplotlib, Seaborn
-- **Data Tools:** SQL, Power BI (Learning)
+* **Languages:** Python (Advanced OOP), C, C++
+* **Data Science:** NumPy, Pandas, Matplotlib, Seaborn
+* **Tools:** Git/GitHub, SQL, Power BI (Learning)
+* **Logic:** Linear Algebra for ML, Data Structures, and Algorithm Design
+
+---
+
+### 🏆 Certifications
+* **Artificial Intelligence Fundamentals** – IBM
+* **Python Essentials (1 & 2)** – Cisco
+* **AI for Beginners** – HP Life
+
+---
 
 ### 📫 Let's Connect!
-- **Email:** farrukhrahim814@gmail.com
-- **LinkedIn:** [Farrukh Rahim](https://www.linkedin.com/in/farrukh-rahim-b234b928b)
+* **Email:** farrukhrahim814@gmail.com
+* **LinkedIn:** [Farrukh Rahim](https://www.linkedin.com/in/farrukh-rahim-b234b928b)
+
+---
+*“Before diving into CS, I built a strong foundation in ICS Physics—now I’m building the future with Code.”*
