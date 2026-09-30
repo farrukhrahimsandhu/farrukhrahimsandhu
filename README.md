@@ -31,6 +31,9 @@ I'm a 4th-semester BS Computer Science student and aspiring **Machine Learning E
 ---
 
 ### 🏆 Certifications
+* **Google Advanced Data Analytics** – Google
+* **Data Analytics Job Simulation** – Quantium
+* **Google Prompting Essentials** – Google
 * **Artificial Intelligence Fundamentals** – IBM
 * **Python Essentials (1 & 2)** – Cisco
 * **AI for Beginners** – HP Life
