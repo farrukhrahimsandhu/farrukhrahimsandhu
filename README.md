@@ -1,23 +1,24 @@
 # Hi there, I'm Farrukh Rahim! 👋
 
-**Aspiring AI/ML Engineer | Technical Data Analyst | Python Developer**
+**Technical Data Analyst → Aspiring AI Engineer | Python Developer**
 
 🎓 BS Computer Science Student at UET Lahore  
 📍 Lahore, Pakistan
 
-I'm a Computer Science undergraduate transitioning from Technical Data Analytics toward AI Engineering. I build data-driven projects using Python, explore datasets to uncover meaningful insights, and am deepening my understanding of Machine Learning algorithms and API integration to develop practical AI-powered applications.
+I'm a Computer Science undergraduate transitioning from Technical Data Analytics to AI Engineering. I enjoy solving problems with Python, uncovering insights through data analysis, and building practical applications powered by AI.
 
-My goal is to move beyond analyzing data and build intelligent systems that solve real-world problems.
+I'm currently deepening my understanding of Machine Learning algorithms and learning API integration to connect AI capabilities with real-world applications. My goal is to become an AI Engineer who can develop, integrate, and deploy useful, intelligent systems.
 
 ---
 
 ### 🚀 What I'm Up To
 
-- 🤖 **Current focus:** Deepening my understanding of Machine Learning algorithms, model training, evaluation, and predictive modeling.
-- 🔌 **Currently learning:** API integration and connecting AI capabilities with practical applications.
-- 🌾 **Hackathon achievement:** Our project, Zarrat AI, reached the top 300 among approximately 16,000 registered projects in Alibaba Cloud AI Hackathon Pakistan 2026.
-- 📊 **Data Analytics:** Building on my experience in Python, Pandas, NumPy, and Exploratory Data Analysis (EDA).
-- 🎯 **Career goal:** Transitioning from Technical Data Analyst to AI Engineer, with a focus on Machine Learning and intelligent applications.
+- 🤖 **Machine Learning:** Deepening my understanding of ML algorithms, predictive modeling, and model evaluation.
+- 🔌 **AI Development:** Learning APIs and integrating AI models into practical applications.
+- ⚡ **PowerUp:** Actively improving my AI-powered household energy assistant for Pakistani households.
+- 🌾 **Hackathon Achievement:** Our Zarrat AI project reached the top 300 among approximately 16,000 registered projects in Alibaba Cloud AI Hackathon Pakistan 2026.
+- 📊 **Data Analytics:** Building on my experience with Python, Pandas, NumPy, statistical analysis, and data visualization.
+- 🎯 **Career Goal:** Transitioning from Technical Data Analyst to AI Engineer.
 
 ---
 
@@ -25,14 +26,13 @@ My goal is to move beyond analyzing data and build intelligent systems that solv
 
 **Zarrat AI — Alibaba Cloud AI Hackathon Pakistan 2026**
 
-Our team developed Zarrat AI, an AI-powered agricultural assistance project designed to address practical farming challenges in Pakistan.
+Our team developed Zarrat AI, an agricultural AI assistance project aimed at addressing practical farming challenges in Pakistan.
 
-- 🏅 **Top 300 projects** out of approximately 16,000 registered projects, based on our reported hackathon result.
-- 🌱 Focused on improving access to agricultural knowledge and AI-assisted farming guidance.
-- 🔍 Project vision includes crop disease identification, treatment guidance, farming requirement calculations, and weather-related information.
-- 🤝 Developed as a team project in the agricultural AI domain.
+- 🏅 **Top 300 projects** among approximately 16,000 registered projects, based on our reported hackathon result.
+- 🌱 Focuses on making agricultural knowledge and AI-assisted farming guidance more accessible.
+- 🔍 Project objectives include crop disease identification, treatment guidance, and other agricultural assistance.
 
-🔗 **[Explore the Zarrat AI Repository](https://github.com/farrukhrahimsandhu/zarratai)**
+🔗 [Live Website](https://zarratai.vercel.app/) | [GitHub Repository](https://github.com/farrukhrahimsandhu/zarratai)
 
 ---
 
@@ -40,31 +40,62 @@ Our team developed Zarrat AI, an AI-powered agricultural assistance project desi
 
 **1. 🌾 [Zarrat AI — AI-Powered Agricultural Assistance](https://github.com/farrukhrahimsandhu/zarratai)**
 
-An agricultural AI project developed for Alibaba Cloud AI Hackathon Pakistan 2026, aimed at helping farmers access useful agricultural information and make better-informed decisions.
+🌐 [Live Website](https://zarratai.vercel.app/)
+
+An agricultural AI project developed for Alibaba Cloud AI Hackathon Pakistan 2026, focused on helping farmers access useful agricultural information and make better-informed farming decisions.
 
 - Agricultural problem-solving through AI.
 - Crop disease identification and treatment guidance as project objectives.
-- Farming knowledge and requirement calculations.
-- Hackathon achievement: reported top-300 placement among approximately 16,000 registered projects.
+- Focus on practical agricultural challenges in Pakistan.
+- Reported top-300 hackathon placement among approximately 16,000 registered projects.
 
-**2. 📊 [Data Science Salaries Analysis](https://github.com/farrukhrahimsandhu/Data-Science-Salaries-Analysis)**
+**2. ⚡ [PowerUp — AI-Powered Household Energy Assistant](https://github.com/farrukhrahimsandhu/PowerUp)**
 
-An Exploratory Data Analysis project investigating global data science salary trends.
+🌐  [GitHub Repository](https://github.com/farrukhrahimsandhu/PowerUp)
 
-- Analyzed over 9,300 records.
+An AI-powered household energy assistant designed to help Pakistani households make informed decisions during load-shedding. I'm actively working on improving the project.
+
+- 🔋 **Battery Runtime Calculator:** Estimates backup duration based on battery specifications and household load.
+- 🏠 **Appliance Manager:** Configure appliances, quantities, wattage, and essential loads.
+- ⚡ **Smart Load Planner:** Helps prioritize appliances to meet a target backup duration.
+- ☀️ **Recharge Planner:** Estimates charging time using Grid/UPS and solar inputs.
+- 🤖 **AI Power Advisor:** Uses Google's Gemini API through a Node.js backend to generate household-specific recommendations.
+
+**Technologies:** HTML, CSS, JavaScript, Node.js, Google Gemini API, Git, and Render.
+
+The application combines programmed calculations with AI-generated advice. Battery runtime and recharge figures are estimates rather than real-time measurements.
+
+**3. 🏡 [Pakistan Real Estate EDA](https://github.com/farrukhrahimsandhu/Pakistan-Real-Estate-EDA)**
+
+An exploratory data analysis project focused on cleaning and analyzing real-world property listings from Pakistan.
+
+- Cleaned inconsistent property data and handled missing values and duplicates.
+- Standardized localized area measurements, including Marla and Kanal, into square feet.
+- Applied outlier detection and treatment to improve analytical clarity.
+- Engineered features such as price per square foot and property size categories.
+- Explored relationships between property prices, area, property types, and locations.
+- Created visualizations using Matplotlib and Seaborn.
+
+**Technologies:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, and Jupyter Notebook.
+
+**4. 📊 [Data Science Salaries Analysis](https://github.com/farrukhrahimsandhu/Data-Science-Salaries-Analysis)**
+
+An exploratory data analysis project investigating global data science salary trends across job roles and countries.
+
+- Analyzed a dataset containing over 9,300 records.
 - Used Pandas and NumPy for data cleaning and analysis.
-- Applied Matplotlib and Seaborn for data visualization.
-- Explored salary patterns across job roles and countries.
+- Applied Matplotlib and Seaborn to visualize distributions and relationships.
+- Explored salary patterns across roles and geographical regions.
 
-**3. 🔢 [NumPy Mastery](https://github.com/farrukhrahimsandhu/NumPy-Mastery)**
+**5. 🔢 [NumPy Mastery](https://github.com/farrukhrahimsandhu/NumPy-Mastery)**
 
-A collection of 50 programs designed to strengthen numerical computing and the mathematical foundations of Machine Learning.
+A collection of 50 programs developed to strengthen numerical computing and the mathematical foundations of Machine Learning.
 
 - Array manipulation and vectorization.
 - Matrix operations and linear algebra.
 - Numerical computation and efficient data processing.
 
-**4. 🐍 [Python Fundamentals Challenge](https://github.com/farrukhrahimsandhu/Python-Fundamentals-Challenge)**
+**6. 🐍 [Python Fundamentals Challenge](https://github.com/farrukhrahimsandhu/Python-Fundamentals-Challenge)**
 
 A collection of 50+ Python programs covering programming fundamentals, problem-solving, and command-line applications.
 
@@ -91,22 +122,24 @@ A collection of 50+ Python programs covering programming fundamentals, problem-s
 - Statistical Data Analysis
 
 **Machine Learning**
-- Machine Learning algorithms — currently deepening knowledge
+- Linear Algebra for Machine Learning
 - Predictive Modeling
 - Regression Analysis
-- Linear Algebra for Machine Learning
-- Scikit-Learn — learning and practical implementation
+- Scikit-Learn
+- Machine Learning algorithms and model evaluation — ongoing learning
+
+**AI Application Development**
+- Google Gemini API
+- API integration — currently learning
+- Node.js
+- AI-powered application development
 
 **Development Tools**
 - Git and GitHub
 - Jupyter Notebook
 - Visual Studio Code
-
-**Current Learning Priorities**
-- Machine Learning algorithms and model evaluation
-- API integration and AI application development
-- Applying statistical concepts to predictive models
-- Moving from data analysis toward end-to-end AI solutions
+- Render
+- Vercel
 
 ---
 
@@ -132,7 +165,7 @@ Participated in volunteer activities with Alkhidmat Foundation Pakistan.
 **Alibaba Cloud AI Hackathon Pakistan 2026**  
 *Team Project: Zarrat AI*
 
-Collaborated on an agricultural AI project that reportedly achieved a top-300 ranking among approximately 16,000 registered projects.
+Collaborated on an agricultural AI project that reportedly achieved a top-300 placement among approximately 16,000 registered projects.
 
 ---
 
@@ -160,7 +193,8 @@ October 2022 – August 2024
 
 **Technical Data Analyst → AI Engineer**
 
-I'm building on my existing programming and data analytics foundation while developing deeper Machine Learning knowledge and learning to integrate models and services through APIs.
+I'm building on my programming and data analytics foundation while developing deeper Machine Learning knowledge and learning how to integrate AI models and services through APIs.
 
-My focus is on understanding the fundamentals, implementing algorithms, evaluating models properly, and building practical AI applications—not just using tools without understanding how they work.
+My focus is on understanding the fundamentals, implementing algorithms, building end-to-end applications, and improving existing projects through practical experience.
 
+**My goal is to become an AI Engineer who can turn technical knowledge into useful, reliable, real-world AI solutions.**
