@@ -1,6 +1,6 @@
 # Hi there, I'm Farrukh Rahim! 👋
 
-I'm a 4th-semester BS Computer Science student and aspiring **Machine Learning Engineer** based in Faisalabad. I specialize in building data-driven systems and solving complex problems through optimized Python code. I am currently bridging the gap between foundational programming and predictive modeling.
+I'm a 5th-semester BS Computer Science student and aspiring **Machine Learning Engineer** based in Faisalabad. I specialize in building data-driven systems and solving complex problems through optimized Python code. I am currently bridging the gap between foundational programming and predictive modeling.
 
 ---
 
