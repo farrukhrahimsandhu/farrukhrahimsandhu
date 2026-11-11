@@ -87,31 +87,14 @@ An exploratory data analysis project investigating global data science salary tr
 - Applied Matplotlib and Seaborn to visualize distributions and relationships.
 - Explored salary patterns across roles and geographical regions.
 
-**5. 🔢 [NumPy Mastery](https://github.com/farrukhrahimsandhu/NumPy-Mastery)**
-
-A collection of 50 programs developed to strengthen numerical computing and the mathematical foundations of Machine Learning.
-
-- Array manipulation and vectorization.
-- Matrix operations and linear algebra.
-- Numerical computation and efficient data processing.
-
-**6. 🐍 [Python Fundamentals Challenge](https://github.com/farrukhrahimsandhu/Python-Fundamentals-Challenge)**
-
-A collection of 50+ Python programs covering programming fundamentals, problem-solving, and command-line applications.
-
-- Object-Oriented Programming (OOP).
-- Functions, modules, and exception handling.
-- File handling and JSON-based data storage.
-- CLI applications, including an ATM Simulator and Contact Manager.
-
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 **Programming Languages**
 - Python
-- C
-- C++
+- C (Fundamentals)
+- C++ (Fundamentals)
 
 **Data Analysis & Scientific Computing**
 - NumPy
